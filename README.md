@@ -1,4 +1,8 @@
-# caraoucoroa
+# cara ou coroa
+
+Código fonte criado por mim, baseado em conhecimentos adquiridos na plataforma udemy, curso de desenvolvimento flutter e linguagem de programação Dart, com o professor Jamilton Damasceno.
+Um app simples de sorteio com moeda, jogando a sorte para cara ou coroa como resultado.
+Foi adicionado uma animação ao resultado da moeda.
 
 A new Flutter application.
 
