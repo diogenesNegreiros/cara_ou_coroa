@@ -4,8 +4,13 @@ Código fonte criado por mim, baseado em conhecimentos adquiridos na plataforma 
 Um app simples de sorteio com moeda, jogando a sorte para cara ou coroa como resultado.
 Foi adicionado uma animação ao resultado da moeda.
 
-A new Flutter application.
+<p>
+<img src= "cara_ou_coroa/preview1.png" width= "200" \>
 
+</p>
+
+
+A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
