@@ -7,8 +7,8 @@ Foi adicionado uma animação ao resultado da moeda.
 <h1> Telas </h1>
 
 <p>
+<img src= "preview1.png" width= "200" \>
 <img src= "preview.png" width= "200" \>
-<img src= "preview2.png" width= "200" \>
 
 </p>
 
