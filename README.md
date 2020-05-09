@@ -4,8 +4,10 @@ Código fonte criado por mim, baseado em conhecimentos adquiridos na plataforma 
 Um app simples de sorteio com moeda, jogando a sorte para cara ou coroa como resultado.
 Foi adicionado uma animação ao resultado da moeda.
 
+preview1.png
+
 <p>
-<img src= "cara_ou_coroa/preview1.png" width= "200" \>
+<img src= "preview1.png" width= "200" \>
 
 </p>
 
